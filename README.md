@@ -1,4 +1,5 @@
 # Developer Relations (DevRel): Bridging the Gap Between Developers and Business
+<img src="devrel_flowchart_avocado.png" />
 
 ## 1. Introduction to Developer Relations (DevRel)
 
